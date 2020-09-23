@@ -1,0 +1,7 @@
+Author : Nitin Shinde
+Email : nitinps@hotmail.com
+Place : Bombay, India
+Date : 6-Oct-2005
+
+HeadLines Today keeps you updated with whats happening in India and around the world while you are working on your PC. It runs in background and pop's up an icon in the system tray whenever it finds a new headlines from the internet. Simply click the icon that will appear in your system tray to view the headline.
+
